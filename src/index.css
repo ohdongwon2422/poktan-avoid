@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body { background: #0e1726; overscroll-behavior: none; }
+button { -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+button:active { transform: scale(0.96); }

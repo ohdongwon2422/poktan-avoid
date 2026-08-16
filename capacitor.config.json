@@ -1,0 +1,6 @@
+{
+  "appId": "com.poktan.avoid",
+  "appName": "폭탄 피하기",
+  "webDir": "dist",
+  "android": { "allowMixedContent": true }
+}
